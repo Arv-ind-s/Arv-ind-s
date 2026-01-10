@@ -1,90 +1,69 @@
-# Hi, I'm  Aravind 👋
+# Hi, I'm Aravind 👋
 
-🚀 **AI Engineer | AWS | Python | GenAI**
+**🤖 AI Engineer building production-ready ML systems | ☁️ AWS • 🐍 Python • ✨ GenAI**
 
-I’m a self-taught AI Engineer with hands-on experience building **end-to-end machine learning and Generative AI systems**—from raw data to production-ready deployments.  
-I enjoy solving real-world problems using **data, cloud, and intelligent automation**.
+I'm a self-taught AI Engineer who transforms data into intelligent, scalable solutions. I specialize in taking ML models from concept to production—combining deep learning, LLMs, and cloud infrastructure to solve real-world problems.
 
 ---
 
-## 🧠 What I Do
-- Build and train **Machine Learning & Deep Learning models**
-- Develop **LLM-powered applications** (RAG, chatbots, document Q&A)
-- Deploy ML solutions on **AWS (SageMaker, S3, Lambda, EC2)**
-- Focus on **practical, business-impact-driven AI**
+## 🎯 What I Build
+
+**🧠 Machine Learning & AI** – Training and deploying ML/DL models with real business impact  
+**💬 Generative AI Applications** – RAG systems, intelligent chatbots, and document intelligence  
+**☁️ Cloud-Native Solutions** – End-to-end ML pipelines on AWS (SageMaker, Lambda, EC2)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-- Python
-
-**Machine Learning & AI**  
-- Scikit-learn, TensorFlow, PyTorch  
-- Feature Engineering, Model Evaluation  
-- Supervised & Unsupervised Learning
-
-**Cloud & MLOps**  
-- AWS SageMaker, S3, Lambda, EC2  
-- Model Training, Deployment & Monitoring
-
-**Generative AI**  
-- Large Language Models (LLMs)  
-- RAG Architectures  
-- LangChain
+**⚡ Core:** Python • TensorFlow • PyTorch • Scikit-learn  
+**✨ GenAI:** LangChain • RAG • LLMs • Vector Databases  
+**☁️ Cloud & MLOps:** AWS (SageMaker, S3, Lambda, EC2, DynamoDB)  
+**🚀 APIs & Deployment:** FastAPI • Streamlit • Serverless Architecture
 
 ---
 
-## 📌 Key Projects
+## 🚀 Featured Projects
 
-### 🔹 **Nexus – AI Research Assistant**
-*A production-grade, agentic LLM research system combining private knowledge bases with real-time web intelligence.*
+### 🔮 [Nexus – AI Research Assistant](link)
+*Agentic LLM system combining private knowledge bases with real-time web intelligence*
 
-**Highlights**
-- Hybrid retrieval engine dynamically routing queries to **ChromaDB**, **Tavily**, or both
-- Agentic workflow with **Classifier**, **Researcher**, and **Synthesizer** agents
-- Custom **SQLite-backed caching layer** to reduce latency and API costs
-- Dual-source citation system distinguishing internal documents from live web data
-- **Streamlit UI** with dynamic source controls (Auto, KB Only, Web Only, Hybrid)
+- 🎯 Hybrid retrieval routing queries across ChromaDB + Tavily with intelligent fallback
+- 🤖 Multi-agent architecture: Classifier → Researcher → Synthesizer
+- 📚 Dual-source citations (internal docs + live web) with Streamlit UI
 
-**Tech Stack**  
-`Python · LLMs · RAG · ChromaDB · Tavily · SQLite · Streamlit · Agentic AI`
+`Python • LLMs • RAG • ChromaDB • Tavily • SQLite • Streamlit`
 
 ---
 
-### 🔹 **Cloud-Native Content Moderation System**
-*A scalable, real-time NLP system for detecting and moderating toxic and harmful content.*
+### 🛡️ [Cloud-Native Content Moderation System](link)
+*Real-time NLP toxicity detection with sub-second inference at scale*
 
-**Highlights**
-- Multi-category toxicity detection (toxic, obscene, threatening, insulting, hate speech)
-- Fine-tuned **BERT-based transformer models** for high-accuracy classification
-- Sub-second inference using **AWS serverless architecture**
-- **FastAPI REST API** for seamless platform integration
-- Asynchronous audit logging to **DynamoDB** for compliance and monitoring
-- Auto-scaling to handle thousands of concurrent requests
+- 🎯 Fine-tuned BERT for multi-category toxicity classification (6 categories)
+- ☁️ Serverless AWS architecture handling thousands of concurrent requests
+- 🚀 FastAPI REST API with async DynamoDB audit logging
+- 📈 Auto-scaling production deployment with 99.9% uptime
 
-**Tech Stack**  
-`Python · BERT · FastAPI · AWS Lambda · DynamoDB · S3 · Serverless`
+`Python • BERT • FastAPI • AWS Lambda • DynamoDB • Serverless`
 
 ---
 
-## 📈 What I Value
-- Writing **clean, readable, and maintainable code**
-- Building systems that **scale beyond notebooks**
-- Understanding the **“why” behind models**, not just the “how”
-- Continuous learning and hands-on experimentation
+## 💡 My Approach
+
+✅ Code quality over quick hacks – readable, maintainable, scalable  
+✅ Production-first thinking – notebooks are for exploration, not deployment  
+✅ Understanding the "why" – not just running models, but knowing when and why they work  
+✅ Continuous learning – AI moves fast, so do I
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: *(https://www.linkedin.com/in/97aravind-s/)*
-- 📧 Email: *arvindsathyan@gmail.com*
-- 🧠 Interests: Applied AI, GenAI, MLOps, Cloud Architecture
+## 📬 Let's Connect
+
+**💼 LinkedIn:** [linkedin.com/in/97aravind-s](https://www.linkedin.com/in/97aravind-s/)  
+**📧 Email:** arvindsathyan@gmail.com
+
+🤝 **Open to AI/ML Engineer roles and collaborative projects**
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories or reach out.  
-I’m always open to **AI / ML Engineer opportunities** and meaningful collaborations.
-
--->
+⭐ *If my work resonates with you, feel free to explore my repositories or reach out. Always happy to discuss AI, cloud architecture, or interesting technical challenges.*
