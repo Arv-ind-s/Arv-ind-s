@@ -161,12 +161,6 @@ Founders, product teams, engineers & AI-agent workflows that need real structure
 </tr>
 </table>
 
-<div align="center">
-
-**Also in the lab:** [AsyncDoc-AI](https://github.com/Arv-ind-s/AsyncDoc-AI) · [RepoMentor](https://github.com/Arv-ind-s/repomentor) · [Employee Attrition on SageMaker](https://github.com/Arv-ind-s/employee-attrition-prediction-aws-sagemaker) · [Bulldozer Price Regression](https://github.com/Arv-ind-s/Bulldozer-price-Regression-) · [Heart Disease Classification](https://github.com/Arv-ind-s/Heart-Disease-Classification)
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -184,7 +178,7 @@ Founders, product teams, engineers & AI-agent workflows that need real structure
 
 <div align="center">
 
-<img src="https://profile-trophy.vercel.app/?username=Arv-ind-s&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://profile-trophy.vercel.app/?username=Arv-ind-s&theme=tokyonight&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=-1&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
