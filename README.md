@@ -159,8 +159,10 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arv-ind-s&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arv-ind-s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9" alt="top langs"/>
+<!-- Using community mirrors because the shared github-readme-stats / trophy instances are frequently rate-limited (503/402).
+     If a mirror ever breaks, swap the host back to github-readme-stats.vercel.app / github-profile-trophy.vercel.app -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arv-ind-s&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9" alt="stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arv-ind-s&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=Arv-ind-s&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=6d28d9&currStreakLabel=6d28d9" alt="streak"/>
 
@@ -168,7 +170,7 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arv-ind-s&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img src="https://profile-trophy.vercel.app/?username=Arv-ind-s&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
