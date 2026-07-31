@@ -6,7 +6,7 @@
 <!-- ══════════════════════════ TYPING SUBTITLE ══════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=780&lines=AI+Engineer+%40+Tata+Consultancy+Services;Turning+ML+models+into+production+systems;GenAI+%C2%B7+RAG+%C2%B7+LLM+Agents+%C2%B7+AWS+MLOps;I+ship+from+notebook+to+endpoint+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=780&lines=AI+Engineer+%C2%B7+Full-stack+GenAI+Builder;Creator+of+thought2build.com+%F0%9F%8C%90;GenAI+%C2%B7+RAG+%C2%B7+LLM+Agents+%C2%B7+AWS+MLOps;I+ship+from+notebook+to+endpoint+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ══════════════════════════ QUICK BADGES ══════════════════════════ -->
 <a href="https://www.linkedin.com/in/97aravind-s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -23,11 +23,11 @@
 ```python
 class AravindS:
     def __init__(self):
-        self.role        = "AI Engineer @ Tata Consultancy Services"
+        self.role        = "AI Engineer & Builder"
         self.location    = "Kochi, Kerala 🇮🇳"
         self.focus       = ["GenAI", "LLM Agents", "RAG", "MLOps on AWS"]
+        self.shipping    = "thought2build.com — a live AI product 🌐"
         self.mindset     = "Notebooks are for exploration — I build for production."
-        self.currently   = "Shipping agentic RAG systems & async document pipelines"
 
     def philosophy(self):
         return "Understand the *why*, not just the *what*. Then deploy it."
@@ -35,7 +35,7 @@ class AravindS:
 
 I'm a **self-taught AI Engineer** who turns raw data and research papers into **intelligent, scalable systems**. My work lives at the intersection of **deep learning, large language models, and cloud infrastructure** — I take models from `import` to `production endpoint`, with an obsession for clean, maintainable, well-tested code.
 
-- 🔭 **Currently building:** multi-agent RAG assistants, async PDF-extraction pipelines, and serverless NLP services
+- 🔭 **Currently building:** [**thought2build.com**](https://www.thought2build.com) — an AI workspace that turns rough product ideas into build-ready specs, tests & tasks
 - 🌱 **Going deeper on:** LLM agent orchestration, vector search at scale, and cost-efficient inference
 - 🎯 **Open to:** AI / ML Engineer roles and ambitious collaborative projects
 - ⚡ **Fun fact:** I'd rather understand *when a model fails* than watch it pass a demo
@@ -92,6 +92,46 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 
 ## 🚀 Featured Projects
 
+<!-- ═══════════ FLAGSHIP: LIVE PRODUCT ═══════════ -->
+<div align="center">
+
+### 🌐 [Thought2Build](https://www.thought2build.com) &nbsp;•&nbsp; **Live on the web**
+
+<a href="https://www.thought2build.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fwww.thought2build.com&style=for-the-badge&label=thought2build.com&up_message=ONLINE&up_color=39d353&down_message=offline&down_color=grey&logo=googlechrome&logoColor=white" alt="live status"/></a>
+<a href="https://www.thought2build.com"><img src="https://img.shields.io/badge/Launch%20App-6d28d9?style=for-the-badge&logo=rocket&logoColor=white" alt="launch"/></a>
+
+</div>
+
+> ### _"Turn rough product ideas into build-ready specs, tests, and tasks."_
+> An **AI-powered product workspace** I built and shipped — it closes the gap between _"we should build this"_ and _"here's exactly how,"_ where most product ideas quietly die.
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**What it does**
+- 🧩 **Four-stage delivery pipeline** — `Spec → Plan → Harness → Tasks`, each behind a **review gate** before it advances
+- ✅ **Harness-first quality** — validation assets are generated *alongside* the plan, not bolted on afterward
+- 🔗 **Full requirement traceability** end-to-end, with clean **export packages** for human teams *or* AI agents to pick up and continue
+- 🔐 OAuth-secured · free starter tier · bring-your-own LLM keys (**Anthropic · OpenAI · Google**)
+
+</td>
+<td width="40%" valign="top">
+
+**Built for**
+Founders, product teams, engineers & AI-agent workflows that need real structure between *idea* and *execution*.
+
+**Stack signals**
+`GenAI` `LLM Orchestration`
+`Multi-provider` `Full-stack`
+`Product Engineering`
+
+</td>
+</tr>
+</table>
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -108,20 +148,6 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 </td>
 <td width="50%" valign="top">
 
-### 📄 [AsyncDoc-AI](https://github.com/Arv-ind-s/AsyncDoc-AI)
-> Production-ready pipeline that extracts **structured data from large PDF corpora**.
-
-- ⚡ **Async-first** (`asyncio` + `httpx`) — processes *hundreds* of PDFs concurrently with rate limiting
-- 🧩 **Schema-driven** extraction via **Pydantic v2**; invalid items logged & skipped, never crashing the run
-- 🖼️ LlamaCloud parsing + GPT-4o + regex diagram-linking, with exponential-backoff resilience
-
-`Python` `asyncio` `Pydantic v2` `LlamaCloud` `GPT-4o`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛡️ [Content Moderation System](https://github.com/Arv-ind-s/content-moderation-system)
 > Real-time NLP toxicity detection, **serverless and sub-second at scale**.
 
@@ -132,24 +158,12 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 `Python` `BERT` `AWS Lambda` `DynamoDB` `Serverless`
 
 </td>
-<td width="50%" valign="top">
-
-### 🧭 [RepoMentor](https://github.com/Arv-ind-s/repomentor)
-> Understand any codebase *faster* — on-demand docs & code explanations.
-
-- 📖 Generates targeted documentation & natural-language walkthroughs
-- 🔍 Built to shrink the ramp-up time on unfamiliar repositories
-- 🛠️ A developer-experience tool born from real onboarding pain
-
-`Python` `LLMs` `Developer Tooling`
-
-</td>
 </tr>
 </table>
 
 <div align="center">
 
-**Also in the lab:** [Employee Attrition on SageMaker](https://github.com/Arv-ind-s/employee-attrition-prediction-aws-sagemaker) · [Bulldozer Price Regression](https://github.com/Arv-ind-s/Bulldozer-price-Regression-) · [Heart Disease Classification](https://github.com/Arv-ind-s/Heart-Disease-Classification)
+**Also in the lab:** [AsyncDoc-AI](https://github.com/Arv-ind-s/AsyncDoc-AI) · [RepoMentor](https://github.com/Arv-ind-s/repomentor) · [Employee Attrition on SageMaker](https://github.com/Arv-ind-s/employee-attrition-prediction-aws-sagemaker) · [Bulldozer Price Regression](https://github.com/Arv-ind-s/Bulldozer-price-Regression-) · [Heart Disease Classification](https://github.com/Arv-ind-s/Heart-Disease-Classification)
 
 </div>
 
