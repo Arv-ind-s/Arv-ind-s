@@ -6,7 +6,7 @@
 <!-- ══════════════════════════ TYPING SUBTITLE ══════════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=780&lines=AI+Engineer+%C2%B7+Full-stack+GenAI+Builder;Creator+of+thought2build.com+%F0%9F%8C%90;GenAI+%C2%B7+RAG+%C2%B7+LLM+Agents+%C2%B7+AWS+MLOps;I+ship+from+notebook+to+endpoint+%F0%9F%9A%80)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=780&lines=AI+Engineer+%C2%B7+Full-stack+GenAI+Builder;Creator+of+thought2build.com+%F0%9F%8C%90;GenAI+%C2%B7+RAG+%C2%B7+LLM+Agents+%C2%B7+AWS+MLOps;I+ship+from+notebook+to+endpoint+%F0%9F%9A%80)
 
 <!-- ══════════════════════════ QUICK BADGES ══════════════════════════ -->
 <a href="https://www.linkedin.com/in/97aravind-s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -141,7 +141,7 @@ Founders, product teams, engineers & AI-agent workflows that need real structure
 - 🤖 **Multi-agent pipeline** — `Classifier → Researcher → Synthesizer`
 - 📚 **Dual-source citations** with a custom SQLite caching layer to cut API cost & latency
 
-`Python` `LangChain` `GPT-4o` `ChromaDB` `Tavily` `Streamlit`
+`Python` `LangChain` `GPT-4o-mini` `ChromaDB` `Tavily` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
@@ -167,7 +167,7 @@ Founders, product teams, engineers & AI-agent workflows that need real structure
 
 <!-- Using community mirrors because the shared github-readme-stats / trophy instances are frequently rate-limited (503/402).
      If a mirror ever breaks, swap the host back to github-readme-stats.vercel.app / github-profile-trophy.vercel.app -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arv-ind-s&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9" alt="stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arv-ind-s&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9" alt="stats"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arv-ind-s&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=Arv-ind-s&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=6d28d9&currStreakLabel=6d28d9" alt="streak"/>
