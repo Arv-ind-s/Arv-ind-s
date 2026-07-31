@@ -50,7 +50,6 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **AI / Machine Learning**
 
@@ -64,7 +63,6 @@ I'm a **self-taught AI Engineer** who turns raw data and research papers into **
 **GenAI / LLM**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6d28d9?style=for-the-badge&logo=databricks&logoColor=white)
 ![LlamaCloud](https://img.shields.io/badge/LlamaCloud-000000?style=for-the-badge&logo=meta&logoColor=white)
