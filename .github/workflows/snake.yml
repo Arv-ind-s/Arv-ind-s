@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate README Assets
 
 on:
   schedule:
@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: readme-assets
+  cancel-in-progress: true
+
 jobs:
   generate:
     permissions:
@@ -16,6 +20,29 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         id: snake-gen
