@@ -164,10 +164,9 @@ Founders, product teams, engineers & AI-agent workflows that need real structure
 
 <div align="center">
 
-<!-- Using community mirrors because the shared github-readme-stats / trophy instances are frequently rate-limited (503/402).
-     If a mirror ever breaks, swap the host back to github-readme-stats.vercel.app / github-profile-trophy.vercel.app -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arv-ind-s&show_icons=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=6d28d9" alt="stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arv-ind-s&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9" alt="top langs"/>
+<!-- Static cards are generated twice daily by .github/workflows/snake.yml and published to the output branch. -->
+<img height="180em" src="https://raw.githubusercontent.com/Arv-ind-s/Arv-ind-s/output/github-stats.svg" alt="GitHub stats"/>
+<img height="180em" src="https://raw.githubusercontent.com/Arv-ind-s/Arv-ind-s/output/top-langs.svg" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Arv-ind-s&theme=tokyonight&hide_border=true&background=0d1117&ring=6d28d9&fire=6d28d9&currStreakLabel=6d28d9" alt="streak"/>
 
