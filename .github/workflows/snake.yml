@@ -23,15 +23,6 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v6
 
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        id: snake-gen
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=#00e676&color_dots=#ebedf0,#9be9a8,#40e070,#26d653,#00c853
-            dist/github-snake-dark.svg?color_snake=#39ff6a&color_dots=#161b22,#0e4429,#00b83a,#26e65a,#39ff6a
-
       - name: Generate GitHub stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -51,6 +42,15 @@ jobs:
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gen
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#00e676&color_dots=#ebedf0,#9be9a8,#40e070,#26d653,#00c853
+            dist/github-snake-dark.svg?color_snake=#39ff6a&color_dots=#161b22,#0e4429,#00b83a,#26e65a,#39ff6a
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
